@@ -1,0 +1,29 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags makehuman-model
+camera 355.0 359.0 0.170870753863 1.0 -0.215072939616 0.8125
+modifier macrodetails-universal/Muscle 0.286000
+modifier macrodetails/African 0.333333
+modifier macrodetails-proportions/BodyProportions 0.500000
+modifier macrodetails/Gender 1.000000
+modifier macrodetails-height/Height 0.500000
+modifier breast/BreastSize 0.500000
+modifier macrodetails/Age 0.500000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Asian 0.333333
+modifier macrodetails/Caucasian 0.333333
+modifier macrodetails-universal/Weight 0.306000
+tongue tongue01 52ad91a3-caad-4e50-8c38-67634e5e789c
+teeth Teeth_Base 0a5ec82a-0d5f-43ce-a765-8f076f95692d
+proxy male_generic df01ef58-b37f-479e-9f97-b4c1b9626aa8
+hair afro01 59627022-32e9-4126-9cf1-036d4b9335fc
+skeleton game_engine.mhskel
+eyebrows eyebrow009 55b3b52a-379e-426d-b320-562ed57202b3
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+clothes male_casualsuit03 39864dca-8d5c-4d7c-84ce-c00982e93cb7
+clothes shoes03 ad622a26-da1e-4e3c-9f8e-454edf10d504
+clothesHideFaces True
+skinMaterial skins/middleage_caucasian_male/middleage_caucasian_male.mhmat
+material afro01 59627022-32e9-4126-9cf1-036d4b9335fc afro01.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide False
